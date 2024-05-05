@@ -1,0 +1,1785 @@
+id,name,stat,position,price
+32,Alessandro Del Piero,92,CF,460
+33,Alessandro Nesta,92,CB,460
+34,Andrea Pirlo,92,CM,460
+35,Bobby Moore,92,CB,460
+36,Carles Puyol Saforcada,92,CB,460
+37,David Beckham,92,RM,460
+38,Dennis Bergkamp,92,CF,460
+39,Emilio Butragueño,92,ST,460
+40,Fabio Cannavaro,92,CB,460
+41,Ferenc Puskás,92,ST,460
+42,Gary Lineker,92,ST,460
+43,Hristo Stoichkov,92,ST,460
+44,Hugo Sánchez,92,ST,460
+45,Javier Zanetti,92,RB,460
+46,Kenny Dalglish,92,ST,460
+47,Luís Figo,92,RW,460
+48,Garrincha,92,RW,460
+49,Paolo Maldini,92,CB,460
+50,Peter Schmeichel,92,GK,460
+51,Raúl González Blanco,92,CF,460
+52,Rivaldo,92,LW,460
+53,Ruud van Nistelrooy,92,ST,460
+54,Samuel Eto'o,92,ST,460
+55,Müller,92,ST,460
+183,Jairzinho,92,RW,460
+57,Kevin De Bruyne,92,CM,460
+58,Sadio Mané,92,LM,460
+59,Lionel Messi,92,CAM,460
+60,Kylian Mbappé,92,ST,460
+61,Mohamed Salah,92,ST,460
+62,Robert Lewandowski,92,ST,460
+63,Mohamed Salah,92,RW,460
+64,Bernardo Silva,92,CAM,460
+65,Marcos Cafú,92,RB,460
+66,Eusébio,92,CF,460
+67,Johan Cruyff,92,CF,460
+68,Sadio Mané,92,LM,460
+69,Roberto Baggio,92,CAM,460
+70,Virgil van Dijk,92,CB,460
+71,Lothar Matthäus,92,CDM,460
+72,Alan Shearer,91,ST,455
+73,Andriy Shevchenko,91,ST,455
+74,Bastian Schweinsteiger,91,CM,455
+75,Clarence Seedorf,91,CAM,455
+76,David Trezeguet,91,ST,455
+77,Didier Drogba,91,ST,455
+78,Pelé,91,CF,455
+79,Edwin van der Sar,91,GK,455
+80,Eusébio,91,CF,455
+81,Fernando Hierro Ruiz,91,CB,455
+82,Fernando Torres,91,ST,455
+83,Franco Baresi,91,CB,455
+84,Gheorghe Hagi,91,CAM,455
+85,Ian Rush,91,ST,455
+86,Johan Cruyff,91,CF,455
+87,Riquelme,91,CAM,455
+88,Kaká,91,CAM,455
+89,Laurent Blanc,91,CB,455
+90,Lev Yashin,91,GK,455
+91,Lothar Matthäus,91,CDM,455
+92,Marcel Desailly,91,CB,455
+93,Marco van Basten,91,ST,455
+94,Michael Ballack,91,CM,455
+95,Michael Laudrup,91,CAM,455
+96,Michael Owen,91,ST,455
+97,Miroslav Klose,91,ST,455
+98,Patrick Kluivert,91,ST,455
+99,Patrick Vieira,91,CM,455
+100,Paul Scholes,91,CM,455
+101,Pavel Nedvěd,91,LM,455
+102,Petr Cech,91,GK,455
+103,Philipp Lahm,91,RB,455
+104,Robert Pirès,91,LM,455
+105,Roberto Baggio,91,CAM,455
+106,Roberto Carlos,91,LB,455
+107,Ronald Koeman,91,CB,455
+108,Ronaldinho,91,CAM,455
+109,Sócrates,91,CAM,455
+110,Steven Gerrard,91,CM,455
+111,Zinedine Zidane,91,CM,455
+112,Robin van Persie,91,ST,455
+113,Wayne Rooney,91,ST,455
+114,Diego Forlán,91,ST,455
+115,Rudolf Völler,91,ST,455
+116,Karim Benzema,91,CF,455
+117,Robert Lewandowski,91,ST,455
+118,Kylian Mbappé,91,ST,455
+119,Kevin De Bruyne,91,CM,455
+120,Lionel Messi,91,RW,455
+121,Mohamed Salah,91,RM,455
+122,Aubameyang,91,ST,455
+123,Cristiano Ronaldo,91,ST,455
+124,Robert Lewandowski,91,ST,455
+125,Lionel Messi,91,RW,455
+126,Kylian Mbappé,91,ST,455
+127,Kevin De Bruyne,91,CM,455
+128,Karim Benzema,91,CF,455
+129,Christopher Nkunku,91,CF,455
+130,Heung Min Son,91,LW,455
+131,Emilio Butragueño,91,ST,455
+132,Bobby Moore,91,CB,455
+133,Luís Figo,91,RW,455
+134,Iker Casillas,91,GK,455
+135,Samuel Eto'o,91,ST,455
+136,Gareth Bale,91,RW,455
+137,Carles Puyol Saforcada,91,CB,455
+138,Fabio Cannavaro,91,CB,455
+139,Kenny Dalglish,91,ST,455
+140,Rafael Leão,91,ST,455
+141,Hristo Stoichkov,91,LW,455
+142,Alessandro Del Piero,90,CF,450
+143,Alessandro Nesta,90,CB,450
+144,Andrea Pirlo,90,CM,450
+145,Carles Puyol Saforcada,90,CB,450
+146,Carlos Alberto Torres,90,RB,450
+147,Christian Vieri,90,ST,450
+148,Claude Makélélé,90,CDM,450
+149,Davor Šuker,90,ST,450
+150,Dennis Bergkamp,90,CAM,450
+151,Emilio Butragueño,90,ST,450
+152,Emmanuel Petit,90,CDM,450
+153,Éric Cantona,90,CF,450
+154,Frank Lampard,90,CM,450
+155,Frank Rijkaard,90,CDM,450
+156,George Best,90,RW,450
+157,Gianfranco Zola,90,CF,450
+158,Henrik Larsson,90,ST,450
+159,Hernán Crespo,90,ST,450
+160,Hristo Stoichkov,90,LW,450
+161,Jari Litmanen,90,CAM,450
+162,Juan Sebastián Verón,90,CM,450
+163,Kenny Dalglish,90,CF,450
+164,Luís Figo,90,RW,450
+165,Luis Hernández,90,ST,450
+166,Garrincha,90,RW,450
+167,Michael Essien,90,CDM,450
+168,Nemanja Vidić,90,CB,450
+169,Peter Schmeichel,90,GK,450
+170,Rio Ferdinand,90,CB,450
+171,Rivaldo,90,CF,450
+172,Ronaldo,90,ST,450
+173,Roy Keane,90,CM,450
+174,Rui Manuel César Costa,90,CAM,450
+175,Ruud Gullit,90,CM,450
+176,Ruud van Nistelrooy,90,ST,450
+177,Samuel Eto'o,90,ST,450
+178,Thierry Henry,90,LW,450
+179,Xavier Hernández,90,CM,450
+180,Jean-Pierre Papin,90,ST,450
+181,Lúcio,90,CB,450
+183,Jairzinho,90,RW,450
+184,Mohamed Salah,90,RW,450
+185,Virgil van Dijk,90,CB,450
+186,Cristiano Ronaldo,90,ST,450
+187,Thibaut Courtois,90,GK,450
+188,Manuel Neuer,90,GK,450
+189,Heung Min Son,90,LW,450
+190,Marcos Cafú,90,RB,450
+191,Erling Haaland,90,ST,450
+192,Thomas Müller,90,CAM,450
+193,Neymar Jr,90,CAM,450
+194,Franck Ribéry,90,CF,450
+195,Casemiro,90,CDM,450
+196,João Cancelo,90,CM,450
+197,Sadio Mané,90,LM,450
+198,Kalidou Koulibaly,90,CB,450
+199,Vinícius Júnior,90,LW,450
+200,Frenkie de Jong,90,CM,450
+201,Virgil van Dijk,90,CB,450
+202,Thibaut Courtois,90,GK,450
+203,Cristiano Ronaldo,90,ST,450
+204,Manuel Neuer,90,GK,450
+205,Patrick Vieira,90,CM,450
+206,Franck Ribéry,90,LW,450
+207,Toni Kroos,90,CM,450
+208,Jürgen Kohler,90,CB,450
+209,Alejandro Gómez,90,CAM,450
+210,Marcelo Brozovic,90,CDM,450
+211,Morientes,90,ST,450
+212,Luka Modric,90,CM,450
+213,Marquinhos,90,CB,450
+214,Robin van Persie,90,ST,450
+215,Michael Laudrup,90,CAM,450
+216,Didier Drogba,90,ST,450
+217,Miroslav Klose,90,ST,450
+218,Petr Cech,90,GK,450
+219,Bastian Schweinsteiger,90,CM,450
+220,Roberto Carlos,90,LB,450
+221,Andriy Shevchenko,90,ST,450
+222,Laurent Blanc,90,CB,450
+223,Bruno Fernandes,90,CAM,450
+224,Gary Lineker,90,ST,450
+225,Gheorghe Hagi,90,CAM,450
+226,Jude Bellingham,90,CM,450
+227,Alan Shearer,89,ST,445
+228,Ashley Cole,89,LB,445
+229,Bastian Schweinsteiger,89,CM,445
+230,Bobby Moore,89,CB,445
+231,David Beckham,89,RM,445
+232,David Trezeguet,89,ST,445
+233,Didier Drogba,89,ST,445
+234,Edwin van der Sar,89,GK,445
+235,Eusébio,89,CF,445
+236,Fabio Cannavaro,89,CB,445
+237,Ferenc Puskás,89,CF,445
+238,Fernando Hierro Ruiz,89,CB,445
+239,Gary Lineker,89,ST,445
+240,Gennaro Gattuso,89,CDM,445
+241,Gheorghe Hagi,89,CAM,445
+242,Gianluca Zambrotta,89,RB,445
+243,Hugo Sánchez,89,ST,445
+244,Ian Rush,89,ST,445
+245,Ian Wright,89,ST,445
+246,Johan Cruyff,89,CF,445
+247,John Barnes,89,LW,445
+248,Riquelme,89,CAM,445
+249,Laurent Blanc,89,CB,445
+250,Lev Yashin,89,GK,445
+251,Marco van Basten,89,ST,445
+252,Michael Ballack,89,CM,445
+253,Michael Laudrup,89,LW,445
+254,Miroslav Klose,89,ST,445
+255,Paul Scholes,89,CM,445
+256,Pavel Nedvěd,89,LM,445
+257,Philipp Lahm,89,CDM,445
+258,Kaká,89,CAM,445
+259,Roberto Baggio,89,CF,445
+260,Ronaldinho,89,CAM,445
+261,Sócrates,89,CAM,445
+262,Sol Campbell,89,CB,445
+263,Steven Gerrard,89,CM,445
+264,Robin van Persie,89,ST,445
+265,Ricardo Carvalho,89,CB,445
+266,Yaya Touré,89,CDM,445
+267,Jay-Jay Okocha,89,CAM,445
+268,Tomas Brolin,89,ST,445
+269,Javier Mascherano,89,CDM,445
+270,Rafael Márquez,89,CDM,445
+271,Müller,89,ST,445
+272,Xabi Alonso,89,CDM,445
+273,Neymar Jr,89,LW,445
+274,Heung Min Son,89,LW,445
+275,Sadio Mané,89,LM,445
+276,Joshua Kimmich,89,CDM,445
+277,Casemiro,89,CDM,445
+278,Alisson,89,GK,445
+279,Harry Kane,89,ST,445
+280,Ederson,89,GK,445
+281,N'Golo Kanté,89,CDM,445
+282,Jan Oblak,89,GK,445
+283,Morientes,89,ST,445
+284,Abedi Pelé,89,CAM,445
+285,David Ginola,89,LM,445
+286,Iker Casillas,89,GK,445
+287,Jürgen Kohler,89,CB,445
+288,Rudi Völler,89,ST,445
+289,Jean-Pierre Papin,89,ST,445
+290,Lucimar da Silva Ferreira,89,CB,445
+291,Marquinhos,89,CB,445
+292,Luka Modric,89,CM,445
+293,Antonio Rüdiger,89,CB,445
+294,Erling Haaland,89,ST,445
+295,Phil Foden,89,LW,445
+296,Gianluigi Donnarumma,89,GK,445
+297,João Cancelo,89,LB,445
+298,Gerard Piqué,89,CB,445
+299,Toni Kroos,89,CM,445
+300,Sergio Ramos,89,CB,445
+301,Thiago,89,CM,445
+302,Steven Berghuis,89,CAM,445
+303,Jack Grealish,89,LW,445
+304,Antoine Griezmann,89,ST,445
+305,Kingsley Coman,89,LM,445
+306,Fabinho,89,CDM,445
+307,Joshua Kimmich,89,CDM,445
+308,Alisson,89,GK,445
+309,Heung Min Son,89,LW,445
+310,Ederson,89,GK,445
+311,Neymar Jr,89,LW,445
+312,Casemiro,89,CDM,445
+313,Harry Kane,89,ST,445
+314,Sadio Mané,89,LM,445
+315,Palhinha,89,CDM,445
+316,Sergej Milinkovic-Savic,89,CM,445
+317,Leon Goretzka,89,CM,445
+318,Bruno Guimarães,89,CM,445
+319,Kyle Walker,89,RB,445
+320,Luis Suárez,89,ST,445
+321,Emmanuel Petit,89,CDM,445
+322,Hernán Crespo,89,ST,445
+323,Marco Asensio,89,ST,445
+324,Aymeric Laporte,89,CB,445
+325,Lautaro Martínez,89,ST,445
+326,Pedri,89,CM,445
+327,Alessandro Nesta,88,CB,440
+328,Andrea Pirlo,88,CM,440
+329,Andriy Shevchenko,88,ST,440
+330,Christian Vieri,88,ST,440
+331,Clarence Seedorf,88,CM,440
+332,Emmanuel Petit,88,CDM,440
+333,Éric Cantona,88,CF,440
+334,Fernando Torres,88,ST,440
+335,Franco Baresi,88,CB,440
+336,Frank Lampard,88,CM,440
+337,Frank Rijkaard,88,CB,440
+338,George Best,88,RW,440
+339,Jari Litmanen,88,CAM,440
+340,Javier Zanetti,88,RB,440
+341,Juan Sebastián Verón,88,CM,440
+342,Lothar Matthäus,88,CB,440
+343,Luís Figo,88,CAM,440
+344,Marcel Desailly,88,CDM,440
+345,Michael Owen,88,ST,440
+346,Nemanja Vidić,88,CB,440
+347,Paolo Maldini,88,LB,440
+348,Patrick Kluivert,88,ST,440
+349,Patrick Vieira,88,CM,440
+350,Petr Cech,88,GK,440
+351,Raúl González Blanco,88,CF,440
+352,Rio Ferdinand,88,CB,440
+353,Robert Pirès,88,LM,440
+354,Roberto Carlos,88,LB,440
+355,Ronald Koeman,88,CB,440
+356,Roy Keane,88,CM,440
+357,Rui Manuel César Costa,88,CAM,440
+358,Xavier Hernández,88,CM,440
+359,Wayne Rooney,88,CF,440
+360,Al-Owairan,88,CAM,440
+361,Landon Donovan,88,RM,440
+362,Włodzimierz Smolarek,88,ST,440
+363,Claudio Marchisio,88,CM,440
+364,Capdevila,88,LB,440
+365,Hidetoshi Nakata,88,CAM,440
+366,Harry Kewell,88,CF,440
+367,Dirk Kuyt,88,RM,440
+368,Jairzinho,88,RW,440
+369,Erling Haaland,88,ST,440
+370,Toni Kroos,88,CM,440
+371,Marquinhos,88,CB,440
+372,Bernardo Silva,88,CAM,440
+373,Rúben Dias,88,CB,440
+374,João Cancelo,88,LB,440
+375,ter Stegen,88,GK,440
+376,Luka Modric,88,CM,440
+377,Keylor Navas,88,GK,440
+378,Gianluigi Donnarumma,88,GK,440
+379,Jay-Jay Okocha,88,CAM,440
+380,Antonio Di Natale,88,ST,440
+381,Mario Gomez,88,ST,440
+382,Marcos Cafú,88,RB,440
+383,Diego Milito,88,ST,440
+384,Ricardo Carvalho,88,CB,440
+385,Rafael Márquez,88,CB,440
+386,Javier Mascherano,88,CB,440
+387,Diego Forlán,88,ST,440
+388,Paulo Dybala,88,CF,440
+389,Matthijs de Ligt,88,CB,440
+390,Raheem Sterling,88,LW,440
+391,Niklas Süle,88,CB,440
+392,Martin Ødegaard,88,CAM,440
+393,Federico Valverde,88,CM,440
+394,Gerard Moreno,88,ST,440
+395,Edin Džeko,88,ST,440
+396,David Alaba,88,CB,440
+397,David Alaba,88,CB,440
+398,Kai Havertz,88,CAM,440
+399,Theo Hernández,88,LW,440
+400,Reece James,88,RW,440
+401,Gonzalo Higuaín,88,ST,440
+402,Kevin Trapp,88,GK,440
+403,Romelu Lukaku,88,ST,440
+404,Carvajal,88,RB,440
+405,Arkadiusz Milik,88,ST,440
+406,Filip Kostic,88,LM,440
+407,Mason Mount,88,CAM,440
+408,Eden Hazard,88,LW,440
+409,Keylor Navas,88,GK,440
+410,ter Stegen,88,GK,440
+411,João Cancelo,88,LB,440
+412,Rúben Dias,88,CB,440
+413,Bernardo Silva,88,CAM,440
+414,Luka Modric,88,CM,440
+415,Marquinhos,88,CB,440
+416,Jorge Campos,88,GK,440
+417,Freddie Ljungberg,88,LM,440
+418,Robbie Keane,88,ST,440
+419,Joe Cole,88,LM,440
+420,Tim Cahill,88,ST,440
+421,Christian Pulisic,88,LW,440
+422,Cristian Romero,88,CB,440
+423,Sofiane Boufal,88,CF,440
+424,Georginio Wijnaldum,88,CM,440
+425,Gianluca Zambrotta,88,RB,440
+426,Sergio Busquets,88,CDM,440
+427,Steven Bergwijn,88,ST,440
+428,Luis Hernández,88,ST,440
+429,Marcus Rashford,88,LW,440
+430,Alves da Silva,88,RB,440
+431,Cavani,88,ST,440
+432,Leroy Sané,88,CAM,440
+433,Richarlison,88,ST,440
+434,Hakim Ziyech,88,CAM,440
+435,Marcos Acuña,88,LB,440
+436,Davor Šuker,88,ST,440
+437,Éder Militão,88,CB,440
+438,Bukayo Saka,88,RM,440
+439,Youri Tielemans,88,CDM,440
+440,Alan Shearer,87,ST,435
+441,Alessandro Del Piero,87,CF,435
+442,Ashley Cole,87,LB,435
+443,Bastian Schweinsteiger,87,LM,435
+444,Bobby Moore,87,CB,435
+445,Carlos Alberto Torres,87,CB,435
+446,Claude Makélélé,87,CDM,435
+447,David Beckham,87,CM,435
+448,Davor Šuker,87,ST,435
+449,Dennis Bergkamp,87,CF,435
+450,Didier Drogba,87,ST,435
+451,Edwin van der Sar,87,GK,435
+452,Emilio Butragueño,87,ST,435
+453,Fabio Cannavaro,87,CB,435
+454,Gary Lineker,87,ST,435
+455,Gennaro Gattuso,87,CDM,435
+456,Gianfranco Zola,87,CF,435
+457,Gianluca Zambrotta,87,LB,435
+458,Henrik Larsson,87,ST,435
+459,Hernán Crespo,87,ST,435
+460,Hristo Stoichkov,87,ST,435
+461,Hugo Sánchez,87,ST,435
+462,Ian Rush,87,ST,435
+463,Ian Wright,87,ST,435
+464,Javier Zanetti,87,LB,435
+465,John Barnes,87,LW,435
+466,Riquelme,87,CAM,435
+467,Kenny Dalglish,87,ST,435
+468,Luis Hernández,87,ST,435
+469,Marcel Desailly,87,CB,435
+470,Michael Essien,87,CDM,435
+471,Miroslav Klose,87,ST,435
+472,Paul Scholes,87,CM,435
+473,Philipp Lahm,87,LB,435
+474,Kaká,87,CAM,435
+475,Rivaldo,87,CAM,435
+476,Samuel Eto'o,87,ST,435
+477,Sócrates,87,CAM,435
+478,Sol Campbell,87,CB,435
+479,Thierry Henry,87,LW,435
+480,Robin van Persie,87,ST,435
+481,Park Ji-sung,87,CAM,435
+482,Sidney Govou,87,CAM,435
+483,Xabi Alonso,87,CDM,435
+484,David De Gea,87,GK,435
+485,Hugo Lloris,87,GK,435
+486,Trent Alexander-Arnold,87,RB,435
+487,Kalidou Koulibaly,87,CB,435
+488,Rodri,87,CDM,435
+489,Andrew Robertson,87,LB,435
+490,Fabinho,87,CDM,435
+491,Frenkie de Jong,87,CM,435
+492,Antonio Rüdiger,87,CB,435
+493,Thomas Müller,87,CAM,435
+494,Leon Goretzka,87,CM,435
+495,Marco Verratti,87,CM,435
+496,Mike Maignan,87,GK,435
+497,Ciro Immobile,87,ST,435
+498,Joe Cole,87,RW,435
+499,Iván Córdoba,87,CB,435
+500,Jorge Campos,87,GK,435
+501,Hidetoshi Nakata,87,CAM,435
+502,Iker Casillas,87,GK,435
+503,Yaya Touré,87,CDM,435
+504,Claudio Marchisio,87,CM,435
+505,Tomas Brolin,87,ST,435
+506,Harry Kewell,87,LW,435
+507,Ángel Di María,87,RW,435
+508,Wojciech Szczesny,87,GK,435
+509,Darwin Núñez,87,ST,435
+510,Sergej Milinkovic-Savic,87,CM,435
+511,Kevin Trapp,87,GK,435
+512,Dejan Kulusevski,87,RW,435
+513,Ibrahima Konaté,87,CB,435
+514,Zambo Anguissa,87,CDM,435
+515,Aaron Wan-Bissaka,87,RB,435
+516,Patrik Schick,87,ST,435
+517,Ismaël Bennacer,87,CDM,435
+518,Lucas Paquetá,87,CAM,435
+519,Sávio Moreira de Oliveira,87,RW,435
+520,João Mário,87,CM,435
+521,Leonardo Bonucci,87,CB,435
+522,Kalvin Phillips,87,CDM,435
+523,Nabil Fekir,87,CAM,435
+524,Nicolò Barella,87,CM,435
+525,Lorenzo Insigne,87,LW,435
+526,Dimitri Payet,87,CAM,435
+527,Davinson Sánchez,87,CB,435
+528,Lautaro Martínez,87,ST,435
+529,Federico Chiesa,87,RW,435
+530,Fred,87,LM,435
+531,Mauro Icardi,87,LW,435
+532,Cody Gakpo,87,LW,435
+533,Anssumane Fati,87,ST,435
+534,Rafael Leão,87,LW,435
+535,Serge Gnabry,87,RM,435
+536,Andrej Kramaric,87,CF,435
+537,Andreas Christensen,87,CB,435
+538,Joaquín Correa,87,CF,435
+539,Danilo Pereira,87,CDM,435
+540,Julian Brandt,87,CAM,435
+541,Morata,87,ST,435
+542,Nathan Aké,87,CB,435
+543,Thomas Müller,87,CAM,435
+544,Fabinho,87,CDM,435
+545,Frenkie de Jong,87,CM,435
+546,Rodri,87,CDM,435
+547,Trent Alexander-Arnold,87,RB,435
+548,Leon Goretzka,87,CM,435
+549,Kalidou Koulibaly,87,CB,435
+550,David De Gea,87,GK,435
+551,Hugo Lloris,87,GK,435
+552,Antonio Rüdiger,87,CB,435
+553,Mike Maignan,87,GK,435
+554,Leandro Paredes,87,CDM,435
+555,André Silva,87,ST,435
+556,Leander Dendoncker,87,CB,435
+557,Denis Zakaria,87,CDM,435
+558,David Silva,87,CAM,435
+559,Martin Terrier,87,LW,435
+560,Davy Klaassen,87,CAM,435
+561,Sami Al-Jaber,87,ST,435
+562,Yannick Carrasco,87,LM,435
+563,Junya Ito,87,RW,435
+564,Hirving Lozano,87,RW,435
+565,Juan Cuadrado,87,RM,435
+566,Moise Kean,87,ST,435
+567,Ben White,87,CB,435
+568,Lionel Messi,87,RW,435
+569,William Carvalho,87,CDM,435
+570,Christian Eriksen,87,CAM,435
+571,Alphonso Davies,87,LW,435
+572,Olivier Giroud,87,ST,435
+573,Serge Gnabry,87,RW,435
+574,Achraf Hakimi,87,RB,435
+575,Camavinga,87,CM,435
+576,Gonçalo Matias Ramos,87,ST,435
+577,Rodrygo,87,RW,435
+578,Andriy Shevchenko,86,ST,430
+579,Carles Puyol Saforcada,86,RB,430
+580,Christian Vieri,86,ST,430
+581,David Trezeguet,86,ST,430
+582,Fernando Hierro Ruiz,86,CB,430
+583,Frank Lampard,86,CM,430
+584,Frank Rijkaard,86,CDM,430
+585,Gianluca Zambrotta,86,RWB,430
+586,Henrik Larsson,86,ST,430
+587,John Barnes,86,CAM,430
+588,Juan Sebastián Verón,86,CM,430
+589,Michael Ballack,86,CM,430
+590,Michael Owen,86,ST,430
+591,Patrick Kluivert,86,ST,430
+592,Patrick Vieira,86,CM,430
+593,Pavel Nedvěd,86,LM,430
+594,Peter Schmeichel,86,GK,430
+595,Petr Cech,86,GK,430
+596,Raúl González Blanco,86,CF,430
+597,Roberto Carlos,86,LB,430
+598,Roy Keane,86,CM,430
+599,Ruud Gullit,86,CM,430
+600,Ruud van Nistelrooy,86,ST,430
+601,Steven Gerrard,86,CDM,430
+602,Wayne Rooney,86,CAM,430
+603,Peter Crouch,86,ST,430
+604,Vinícius Júnior,86,LW,430
+605,Aymeric Laporte,86,CB,430
+606,Édouard Mendy,86,GK,430
+607,Thiago Silva,86,CB,430
+608,Raheem Sterling,86,LW,430
+609,Thiago,86,CM,430
+610,Wojciech Szczesny,86,GK,430
+611,David Alaba,86,CB,430
+612,Parejo,86,CM,430
+613,Kingsley Coman,86,LM,430
+614,Kevin Trapp,86,GK,430
+615,Christopher Nkunku,86,CF,430
+616,Riyad Mahrez,86,RW,430
+617,Lautaro Martínez,86,ST,430
+618,Ciro Immobile,86,ST,430
+619,Romelu Lukaku,86,ST,430
+620,Sergej Milinkovic-Savic,86,CM,430
+621,Nicolò Barella,86,CM,430
+622,Marcelo Brozovic,86,CDM,430
+623,Milan Škriniar,86,CB,430
+624,Paulo Dybala,86,CF,430
+625,Bruno Fernandes,86,CAM,430
+626,Federico Valverde,86,RW,430
+627,Robbie Keane,86,ST,430
+628,Ole Gunnar Solskjær,86,ST,430
+629,Freddie Ljungberg,86,LM,430
+630,Aleksandr Mostovoi,86,CAM,430
+631,Jerzy Dudek,86,GK,430
+632,Sami Al-Jaber,86,ST,430
+633,Landon Donovan,86,CF,430
+634,Dirk Kuyt,86,CAM,430
+635,Capdevila,86,LB,430
+636,Sidney Govou,86,ST,430
+637,Ji Sung Park,86,LM,430
+638,Wlodzimierz Smolarek,86,ST,430
+639,Kai Havertz,86,ST,430
+640,Richarlison,86,ST,430
+641,Kessié,86,CDM,430
+642,Gabriel Jesus,86,ST,430
+643,Antony,86,RW,430
+644,Aurélien Tchouaméni,86,CM,430
+645,Nico Schlotterbeck,86,CB,430
+646,Federico Valverde,86,CM,430
+647,Cody Gakpo,86,LW,430
+648,Rafael Leão,86,LW,430
+649,Wissam Ben Yedder,86,ST,430
+650,Thomas Lemar,86,CM,430
+651,Robin Gosens,86,LWB,430
+652,Martin Terrier,86,LW,430
+653,Moses Simon,86,LM,430
+654,Raphinha,86,RW,430
+655,Jonathan Ikoné,86,RW,430
+656,Bremer,86,CB,430
+657,Mason Mount,86,CAM,430
+658,Fikayo Tomori,86,CB,430
+659,Pedri,86,CM,430
+660,Romain Faivre,86,RM,430
+661,Wilfried Zaha,86,LW,430
+662,Jesús Navas,86,RB,430
+663,Leon Bailey,86,RM,430
+664,Radamel Falcao,86,ST,430
+665,Dušan Vlahovic,86,ST,430
+666,Leroy Sané,86,CAM,430
+667,Smith Rowe,86,LM,430
+668,Moussa Sissoko,86,CDM,430
+669,Luuk de Jong,86,ST,430
+670,Sheraldo Becker,86,ST,430
+671,Sheraldo Becker,86,ST,430
+672,Merino,86,CM,430
+673,Chris Willock,86,CAM,430
+674,Matthijs de Ligt,86,CB,430
+675,Jude Bellingham,86,CM,430
+676,Ivan Perišic,86,CAM,430
+677,Seko Fofana,86,CB,430
+678,Ross Barkley,86,ST,430
+679,Ross Barkley,86,RW,430
+680,Hamari Traoré,86,CDM,430
+681,Domenico Berardi,86,CF,430
+682,Gary Medel,86,CDM,430
+683,Rodrigo Bentancur,86,CM,430
+684,Stefan de Vrij,86,CB,430
+685,Oleksandr Zinchenko,86,CM,430
+686,James Maddison,86,RM,430
+687,Kieran Trippier,86,RB,430
+688,Moussa Diaby,86,CF,430
+689,Theo Hernández,86,LB,430
+690,Eric Maxim Choupo-Moting,86,ST,430
+691,Thomas Delaney,86,CDM,430
+692,Ronald Araujo,86,CB,430
+693,Xherdan Shaqiri,86,CAM,430
+694,Enner Valencia,86,ST,430
+695,Matias Viña,86,LWB,430
+696,Andrés Guardado,86,CDM,430
+697,Kevin Trapp,86,GK,430
+698,Marcelo Brozovic,86,CDM,430
+699,Christopher Nkunku,86,CF,430
+700,Sergej Milinkovic-Savic,86,CM,430
+701,Thiago Silva,86,CB,430
+702,Bruno Fernandes,86,CAM,430
+703,Édouard Mendy,86,GK,430
+704,Lautaro Martínez,86,ST,430
+705,Thiago,86,CM,430
+706,Wojciech Szczesny,86,GK,430
+707,Raheem Sterling,86,LW,430
+708,Romelu Lukaku,86,ST,430
+709,Vinícius Júnior,86,LW,430
+710,Paulo Dybala,86,CF,430
+711,Aymeric Laporte,86,CB,430
+712,Kingsley Coman,86,LM,430
+713,Min Jae Kim,86,CB,430
+714,Moise Kean,86,ST,430
+715,Jonas Hofmann,86,CAM,430
+716,Martin Ødegaard,86,CM,430
+717,Edin Džeko,86,ST,430
+718,Niclas Füllkrug,86,ST,430
+719,Clint Dempsey,86,ST,430
+720,Aaron Ramsey,86,CM,430
+721,Iñaki Williams,86,ST,430
+722,Miloš Degenek,86,CB,430
+723,Timo Werner,86,ST,430
+724,Dries Mertens,86,CF,430
+725,Matheus Nunes,86,CM,430
+726,Toko Ekambi,86,LM,430
+727,Aleksandar Mitrovic,86,ST,430
+728,Leandro Trossard,86,LM,430
+729,Mateo Kovacic,86,CM,430
+730,Brenden Aaronson,86,CAM,430
+731,Timothy Weah,86,RM,430
+732,Adrien Rabiot,86,CM,430
+733,Simon Kjær,86,CB,430
+734,Ferrán Torres,86,LW,430
+735,Nagatomo,86,LB,430
+736,Memphis Depay,86,CF,430
+737,Luke Shaw,86,LB,430
+738,Marcus Thuram,86,ST,430
+739,Jeremie Frimpong,86,RB,430
+740,Jonathan David,86,ST,430
+741,Takefusa Kubo,86,CAM,430
+742,Jules Koundé,86,CB,430
+743,Mattéo Guendouzi,86,CDM,430
+744,Giovanni Reyna,86,CAM,430
+745,Lisandro Martínez,86,LB,430
+746,Amine Harit,86,CAM,430
+747,Daichi Kamada,86,CAM,430
+748,Ashley Cole,85,LB,425
+749,Clarence Seedorf,85,CM,425
+750,Claude Makélélé,85,RM,425
+751,Davor Šuker,85,ST,425
+752,Emmanuel Petit,85,LB,425
+753,Fernando Torres,85,ST,425
+754,Gennaro Gattuso,85,CM,425
+755,Gheorghe Hagi,85,CAM,425
+756,Gianfranco Zola,85,CF,425
+757,Hernán Crespo,85,ST,425
+758,Ian Wright,85,ST,425
+759,Jari Litmanen,85,CF,425
+760,Laurent Blanc,85,CAM,425
+761,Luis Hernández,85,ST,425
+762,Michael Essien,85,CDM,425
+763,Michael Laudrup,85,CF,425
+764,Nemanja Vidić,85,CB,425
+765,Rio Ferdinand,85,CB,425
+766,Robert Pirès,85,CAM,425
+767,Ronald Koeman,85,CB,425
+768,Rui Manuel César Costa,85,CAM,425
+769,Sol Campbell,85,CB,425
+770,Pedri,85,CM,425
+771,Jorginho,85,CM,425
+772,Diogo Jota,85,CF,425
+773,Marcos Acuña,85,LB,425
+774,Yannick Carrasco,85,LM,425
+775,Sergio Busquets,85,CDM,425
+776,Nabil Fekir,85,CAM,425
+777,Memphis Depay,85,CF,425
+778,Iago Aspas,85,ST,425
+779,Gerard Moreno,85,ST,425
+780,Jordi Alba Ramos,85,LB,425
+781,Péter Gulácsi,85,GK,425
+782,Matthijs de Ligt,85,CB,425
+783,Yann Sommer,85,GK,425
+784,Niklas Süle,85,CB,425
+785,Patrik Schick,85,ST,425
+786,Marco Reus,85,CAM,425
+787,Serge Gnabry,85,RM,425
+788,Paul Pogba,85,CM,425
+789,Theo Hernández,85,LB,425
+790,Filip Kostić,85,LM,425
+791,Phil Foden,85,LW,425
+792,Ilkay Gündogan,85,CM,425
+793,Kyle Walker,85,RB,425
+794,Jamie Vardy,85,ST,425
+795,Aubameyang,85,ST,425
+796,Hamari Traoré,85,RB,425
+797,Lars Ricken,85,CAM,425
+798,Tim Cahill,85,ST,425
+799,Clint Dempsey,85,CAM,425
+800,Cody Gakpo,85,LW,425
+801,Peter Crouch,85,ST,425
+802,Saeed Al Owairan,85,RW,425
+803,Thiago Silva,85,CB,425
+804,Steven Bergwijn,85,LW,425
+805,Renato Sanches,85,CM,425
+806,Arnaut Danjuma,85,LM,425
+807,Ángel Correa,85,RM,425
+808,Alex Telles,85,LB,425
+809,Javier Hernández,85,ST,425
+810,Ivan Toney,85,ST,425
+811,Maxence Lacroix,85,CB,425
+812,Dodô,85,RB,425
+813,Marko Arnautovic,85,ST,425
+814,Stefan Posch,85,CB,425
+815,David Raum,85,LWB,425
+816,Antoine Griezmann,85,ST,425
+817,Ousmane Dembélé,85,RW,425
+818,Callum Hudson-Odoi,85,LWB,425
+819,Denzel Dumfries,85,CB,425
+820,Lucas Vázquez,85,CAM,425
+821,Victor Osimhen,85,ST,425
+822,Gregor Kobel,85,GK,425
+823,Alfonso Espino,85,LB,425
+824,Cristhian Stuani,85,ST,425
+825,Alfred Duncan,85,CM,425
+826,Emmanuel Gyasi,85,RM,425
+827,Jacob Bruun Larsen,85,LW,425
+828,Nikolas Nartey,85,CM,425
+829,Shinji Kagawa,85,CAM,425
+830,Kangin Lee,85,CAM,425
+831,Dong Jun Lee,85,RM,425
+832,Bremer,85,CB,425
+833,Kasper Schmeichel,85,GK,425
+834,Cyle Larin,85,ST,425
+835,Tajon Buchanan,85,RM,425
+836,Miguel Almirón,85,RW,425
+837,Jae Sung Lee,85,CM,425
+838,Kieffer Moore,85,ST,425
+839,Takuma Asano,85,RW,425
+840,Bartosz Bereszynski,85,RB,425
+841,Munir,85,LW,425
+842,Bryan Oviedo,85,LB,425
+843,Gonzalo Plata,85,RM,425
+844,Gerard Moreno,85,ST,425
+845,Niklas Süle,85,CB,425
+846,Kyle Walker,85,RB,425
+847,Sergio Busquets,85,CDM,425
+848,Memphis Depay,85,CF,425
+849,Paul Pogba,85,CM,425
+850,Yannick Carrasco,85,LM,425
+851,Theo Hernández,85,LB,425
+852,Marcos Acuña,85,LB,425
+853,Yann Sommer,85,GK,425
+854,Serge Gnabry,85,RM,425
+855,Ilkay Gündogan,85,CM,425
+856,Pedri,85,CM,425
+857,Marco Reus,85,CAM,425
+858,Filip Kostić,85,LM,425
+859,Matthijs de Ligt,85,CB,425
+860,Jordi Alba Ramos,85,LB,425
+861,Phil Foden,85,LW,425
+862,Jonathan Osorio,85,CM,425
+863,Nikola Vlašic,85,LM,425
+864,Borna Sosa,85,LB,425
+865,Abdou Diallo,85,CB,425
+866,Sardar Azmoun,85,ST,425
+867,Afif,85,LW,425
+868,Ellyes Skhiri,85,CDM,425
+869,Salem Al Dawsari,85,LW,425
+870,Ethan Ampadu,85,CDM,425
+871,Harry Wilson,85,RM,425
+872,Jesús Corona,85,RW,425
+873,Giménez,85,CB,425
+874,Piotr Zielinski,85,CAM,425
+875,Gonzalo Montiel,85,RB,425
+876,Walker Zimmerman,85,CB,425
+877,Lovro Majer,85,CM,425
+878,Axel Witsel,85,CDM,425
+879,Thilo Kehrer,85,CB,425
+880,Mikkel Damsgaard,85,LM,425
+881,Daniel James,85,ST,425
+882,Jawad El Yamiq,85,CB,425
+883,Ao Tanaka,85,CDM,425
+884,Jude Bellingham,84,CM,420
+885,Dušan Vlahović,84,ST,420
+886,Jack Grealish,84,LW,420
+887,Kai Havertz,84,CAM,420
+888,Alphonso Davies,84,LB,420
+889,João Félix,84,CF,420
+890,Federico Valverde,84,CM,420
+891,Mason Mount,84,CAM,420
+892,Mateo Kovacic,84,CM,420
+893,Reece James,84,RWB,420
+894,Joel Matip,84,CB,420
+895,Luis Díaz,84,LW,420
+896,Leonardo Bonucci,84,CB,420
+897,Ángel Di María,84,RW,420
+898,Federico Chiesa,84,LW,420
+899,Jules Koundé,84,CB,420
+900,Yassine Bounou,84,GK,420
+901,Éder Militão,84,CB,420
+902,Carvajal,84,RB,420
+903,Stefan Savić,84,CB,420
+904,Moussa Diaby,84,RM,420
+905,Leroy Sané,84,LM,420
+906,Koen Casteels,84,GK,420
+907,Mats Hummels,84,CB,420
+908,Lucas Hernández,84,CB,420
+909,Eden Hazard,84,LW,420
+910,Dušan Tadić,84,LW,420
+911,Jadon Sancho,84,LW,420
+912,Martin Ødegaard,84,CAM,420
+913,Achraf Hakimi,84,RB,420
+914,Sergio Ramos,84,CB,420
+915,Wissam Ben Yedder,84,ST,420
+916,Rafael Leão,84,LW,420
+917,Fikayo Tomori,84,CB,420
+918,Sandro Tonali,84,CDM,420
+919,Lorenzo Pellegrini,84,CAM,420
+920,Hakan Çalhanoğlu,84,CM,420
+921,Alessandro Bastoni,84,CB,420
+922,Giorgio Chiellini,84,CB,420
+923,Lorenzo Insigne,84,LW,420
+924,Youri Tielemans,84,CM,420
+925,Dries Mertens,84,CF,420
+926,Declan Rice,84,CDM,420
+927,Oyarzabal,84,LW,420
+928,Marcos Llorente,84,CM,420
+929,Kessié,84,CDM,420
+930,De Paul,84,CM,420
+931,Ivan Perišić,84,LM,420
+932,Canales,84,RM,420
+933,Thomas Partey,84,CDM,420
+934,Emiliano Martínez,84,GK,420
+935,Luis Suárez,84,ST,420
+936,Raphaël Varane,84,CB,420
+937,Muniain,84,LM,420
+938,Wilfred Ndidi,84,CDM,420
+939,Domenico Berardi,84,RM,420
+940,Stefan de Vrij,84,CB,420
+941,Kieran Trippier,84,RB,420
+942,Edin Džeko,84,ST,420
+943,Samir Handanovic,84,GK,420
+944,Alejandro Gómez,84,CAM,420
+945,Palhinha Gonçalves,84,CDM,420
+946,Jonas Hofmann,84,RM,420
+947,Téji Savanier,84,CAM,420
+948,Ivo Tiago Santos Rodrigues,84,RM,420
+949,Thiago Almada,84,CAM,420
+950,Brian Brobbey,84,ST,420
+951,Eldor Shomurodov,84,ST,420
+952,Seko Fofana,84,CDM,420
+953,Olivier Giroud,84,ST,420
+954,Willi Orban,84,CB,420
+955,Hirving Lozano,84,LW,420
+956,Manuel Akanji,84,CB,420
+957,Christian Eriksen,84,CM,420
+958,Marcus Rashford,84,ST,420
+959,Corentin Tolisso,84,CM,420
+960,Sergiño Dest,84,RB,420
+961,Chancel Mbemba,84,CB,420
+962,Suárez,84,ST,420
+963,Alexander Sørloth,84,ST,420
+964,Timo Werner,84,LM,420
+965,James Maddison,84,RM,420
+966,Chris Smalling,84,CB,420
+967,Jamal Musiala,84,CAM,420
+968,Jack Harrison,84,LM,420
+969,Rodrigo,84,CAM,420
+970,Pedro David Rosendo Marques,84,ST,420
+971,Gabriel Martinelli,84,LM,420
+972,Luis Muriel,84,ST,420
+973,Bruno Guimarães,84,CM,420
+974,Abel Ruiz Ortega,84,ST,420
+975,Niclas Füllkrug,84,ST,420
+976,Paulinho,84,LM,420
+977,Héctor Herrera,84,CM,420
+978,Ben Godfrey,84,CB,420
+979,Lucas Robertone,84,CAM,420
+980,Martin Terrier,84,LM,420
+981,Marcus Thuram,84,ST,420
+982,David Soria,84,GK,420
+983,Joe Gomez,84,CB,420
+984,DeAndre Yedlin,84,RB,420
+985,Thomas Meunier,84,RB,420
+986,Ezequiel Ávila,84,ST,420
+987,Teemu Pukki,84,ST,420
+988,Timothy Castagne,84,RB,420
+989,Odisseas Vlachodimos,84,GK,420
+990,Alexandre Lacazette,84,ST,420
+991,Vincenzo Grifo,84,CAM,420
+992,Steven Berghuis,84,CM,420
+993,Suso,84,CM,420
+994,Noussair Mazraoui,84,RM,420
+995,Samuel Chukwueze,84,LW,420
+996,Carlos Vela,84,RW,420
+997,Nicolás Tagliafico,84,LWB,420
+998,Diogo Dalot,84,RB,420
+999,Emre Mor,84,RW,420
+1000,Youcef Belaïli,84,LM,420
+1001,Gabriel,84,CB,420
+1002,Montassar Talbi,84,CB,420
+1003,Francisco Calvo,84,CB,420
+1004,Alireza Jahanbakhsh,84,RW,420
+1005,Yasser Al Shahrani,84,LB,420
+1006,Mark-Anthony Kaye,84,CM,420
+1007,Ajdin Hrustic,84,CM,420
+1008,Nouhou Tolo,84,LB,420
+1009,Reggie Cannon,84,RWB,420
+1010,Joseph Aidoo,84,CB,420
+1011,Krépin Diatta,84,RM,420
+1012,Stefan de Vrij,84,CB,420
+1013,Éder Militão,84,CB,420
+1014,Ferland Mendy,84,LB,420
+1015,Jorge Resurrección,84,CM,420
+1016,Fikayo Tomori,84,CB,420
+1017,Gregor Kobel,84,GK,420
+1018,Carlos Soler,84,CM,420
+1019,Cody Gakpo,84,LW,420
+1020,Eden Hazard,84,LW,420
+1021,Yassine Bounou,84,GK,420
+1022,Cristian Romero,84,CB,420
+1023,Jules Koundé,84,CB,420
+1024,Merino,84,CM,420
+1025,Reece James,84,RWB,420
+1026,Ivan Perišić,84,LM,420
+1027,Oyarzabal,84,LW,420
+1028,Unai Simón,84,GK,420
+1029,Thomas Lemar,84,CM,420
+1030,Luis Suárez,84,ST,420
+1031,Leroy Sané,84,LM,420
+1032,Giménez,84,CB,420
+1033,Sergio Ramos,84,CB,420
+1034,Ángel Correa,84,ST,420
+1035,Gabriel Jesus,84,ST,420
+1036,Mason Mount,84,CAM,420
+1037,Dušan Vlahović,84,ST,420
+1038,Dries Mertens,84,CF,420
+1039,Declan Rice,84,CDM,420
+1040,Kasper Schmeichel,84,GK,420
+1041,Antoine Griezmann,84,ST,420
+1042,Giorgian De Arrascaeta,84,CAM,420
+1043,Wissam Ben Yedder,84,ST,420
+1044,Achraf Hakimi,84,RB,420
+1045,Pierre-Emile Højbjerg,84,CDM,420
+1046,Ángel Di María,84,RW,420
+1047,Ronald Araujo,84,CB,420
+1048,Weverton,84,GK,420
+1049,Marcos Llorente,84,CM,420
+1050,John Stones,84,CB,420
+1051,Jadon Sancho,84,LW,420
+1052,Dušan Tadić,84,LW,420
+1053,Alphonso Davies,84,LB,420
+1054,De Paul,84,CM,420
+1055,Moussa Diaby,84,RM,420
+1056,Jordan Henderson,84,CM,420
+1057,Raphinha,84,RW,420
+1058,Emiliano Martínez,84,GK,420
+1059,Kai Havertz,84,CAM,420
+1060,Piotr Zieliński,84,CAM,420
+1061,Pau Torres,84,CB,420
+1062,Fabián,84,CM,420
+1063,Thomas Partey,84,CDM,420
+1064,Hakim Ziyech,84,RW,420
+1065,Raphaël Varane,84,CB,420
+1066,Ousmane Dembélé,84,RW,420
+1067,Alejandro Gómez,84,CAM,420
+1068,Carvajal,84,RB,420
+1069,Kieran Trippier,84,RB,420
+1070,Canales,84,RM,420
+1071,Rúben Neves,84,CM,420
+1072,Jude Bellingham,84,CM,420
+1073,Federico Valverde,84,CM,420
+1074,Jack Grealish,84,LW,420
+1075,Rafael Leão,84,LW,420
+1076,Lucas Hernández,84,CB,420
+1077,Koen Casteels,84,GK,420
+1078,Mateo Kovacic,84,CM,420
+1079,Presnel Kimpembe,84,CB,420
+1080,João Félix,84,CF,420
+1081,Youri Tielemans,84,CM,420
+1082,Ali,84,ST,420
+1083,Mohammed Kudus,84,CAM,420
+1084,Cameron Carter-Vickers,84,CB,420
+1085,Moussa Djitté,84,ST,420
+1086,Edmond Tapsoba,84,CB,420
+1087,Gerónimo Rulli,84,GK,420
+1088,Jesper Lindstrøm,84,LM,420
+1089,Darwin Núñez,84,LW,420
+1090,Otávio,84,RM,420
+1091,Piero Hincapié,84,LB,420
+1092,Saleh Al Shehri,84,ST,420
+1093,Taylor Booth,84,CM,420
+1094,Hakim Ziyech,83,RW,415
+1095,Jordan Henderson,83,CM,415
+1096,Roberto Firmino,83,CF,415
+1097,Bremer,83,CB,415
+1098,Juan Cuadrado,83,RB,415
+1099,Unai Simón,83,GK,415
+1100,Jesús Navas,83,RB,415
+1101,Pau Torres,83,CB,415
+1102,Konrad Laimer,83,CDM,415
+1103,Ferland Mendy,83,LB,415
+1104,Marco Asensio,83,RW,415
+1105,Ousmane Dembélé,83,RW,415
+1106,Rúben Neves,83,CM,415
+1107,Presnel Kimpembe,83,CB,415
+1108,Carlos Soler,83,CM,415
+1109,Fabián,83,CM,415
+1110,Kasper Schmeichel,83,GK,415
+1111,Cody Gakpo,83,LW,415
+1112,David Silva,83,CAM,415
+1113,Luis Alberto,83,CM,415
+1114,Merino,83,CM,415
+1115,Ángel Correa,83,ST,415
+1116,Raphinha,83,RW,415
+1117,Antoine Griezmann,83,ST,415
+1118,Thomas Lemar,83,CM,415
+1119,Jorge Resurrección,83,CM,415
+1120,Piotr Zieliński,83,CAM,415
+1121,John Stones,83,CB,415
+1122,Gabriel Jesus,83,ST,415
+1123,De Tomás,83,ST,415
+1124,Victor Osimhen,83,ST,415
+1125,Ronald Araujo,83,CB,415
+1126,Angeliño,83,LWB,415
+1127,Pierre-Emile Højbjerg,83,CDM,415
+1128,Ricardo Pereira,83,RB,415
+1129,Diego Carlos,83,CB,415
+1130,Gerard Piqué,83,CB,415
+1131,Fernando Reges,83,CDM,415
+1132,Oliver Baumann,83,GK,415
+1133,Duván Zapata,83,ST,415
+1134,Cristian Romero,83,CB,415
+1135,Gregor Kobel,83,GK,415
+1136,Giménez,83,CB,415
+1137,Lukáš Hrádecký,83,GK,415
+1138,William Saliba,83,CB,415
+1139,Jeremías Ledesma,83,GK,415
+1140,Daichi Kamada,83,CAM,415
+1141,Gerard Deulofeu Lázaro,83,ST,415
+1142,Jonathan Clauss,83,LWB,415
+1143,Owen Wijndal,83,LB,415
+1144,Riechedly Bazoer,83,CM,415
+1145,Jeremie Frimpong,83,RWB,415
+1146,Joselu,83,ST,415
+1147,Nuno Santos,83,LW,415
+1148,Wilson Manafá,83,RB,415
+1149,Przemyslaw Frankowski,83,LWB,415
+1150,William Carvalho,83,CDM,415
+1151,Facundo Quignon,83,CDM,415
+1152,Nicolás Lodeiro,83,CAM,415
+1153,Pervis Estupiñán,83,LB,415
+1154,Christian Kabasele,83,CB,415
+1155,Adrien Rabiot,83,CM,415
+1156,Isaak Touré,83,ST,415
+1157,Djibril Sow,83,RB,415
+1158,Antonio Candreva,83,CM,415
+1159,Yeray,83,CB,415
+1160,Álex Moreno,83,LB,415
+1161,Yunus Malli,83,CAM,415
+1162,Davide Biraschi,83,CB,415
+1163,Gayà,83,LB,415
+1164,Anthony Lopes,83,GK,415
+1165,Lucas Digne,83,LB,415
+1166,Gonçalo Guedes,83,ST,415
+1167,Emre Can,83,CM,415
+1168,Rui Patrício,83,GK,415
+1169,André Silva,83,ST,415
+1170,Aurélien Tchouaméni,83,CM,415
+1171,Tammy Abraham,83,ST,415
+1172,Azpilicueta,83,CB,415
+1173,Aaron Ramsdale,83,GK,415
+1174,Christian Pulisic,83,LW,415
+1175,Bukayo Saka,83,RM,415
+1176,Arnaut Danjuma,83,LM,415
+1177,Christian Eriksen,83,CM,415
+1178,Nico Schlotterbeck,83,CB,415
+1179,Raúl Jiménez,83,ST,415
+1180,Gerónimo Rulli,83,GK,415
+1181,Sebastián Coates,83,CB,415
+1182,Noussair Mazraoui,83,RB,415
+1183,Olivier Giroud,83,ST,415
+1184,Guerreiro,83,LB,415
+1185,Steven Berghuis,83,CAM,415
+1186,Andreas Christensen,83,CB,415
+1187,Darwin Núñez,83,ST,415
+1188,Ben Chilwell,83,LWB,415
+1189,Andrej Kramarić,83,CF,415
+1190,Ferrán Torres,83,LW,415
+1191,Otávio,83,RM,415
+1192,Robin Gosens,83,LWB,415
+1193,Denzel Dumfries,83,RWB,415
+1194,Jordan Pickford,83,GK,415
+1195,Lucas Paquetá,83,CAM,415
+1196,Idrissa Gueye,83,CDM,415
+1197,Julian Brandt,83,CAM,415
+1198,Toby Alderweireld,83,CB,415
+1199,Jonathan Tah,83,CB,415
+1200,Iñigo Martínez,83,CB,415
+1201,André Onana,83,GK,415
+1202,Timo Werner,83,ST,415
+1203,Florian Wirtz,83,CAM,415
+1204,Raúl Albiol,83,CB,415
+1205,Dani Olmo,83,CAM,415
+1206,Antony,83,RW,415
+1207,Simon Kjær,83,CB,415
+1208,Matthias Ginter,83,CB,415
+1209,Nuno Mendes,83,LB,415
+1210,Lovro Majer,83,CM,415
+1211,Christian Pulisic,82,LW,410
+1212,Aaron Ramsdale,82,GK,410
+1213,Nico Schlotterbeck,82,CB,410
+1214,Ben Chilwell,82,LWB,410
+1215,Azpilicueta,82,CB,410
+1216,Darwin Núñez,82,ST,410
+1217,Manuel Locatelli,82,CDM,410
+1218,Marko Arnautović,82,ST,410
+1219,Florian Wirtz,82,CAM,410
+1220,Bukayo Saka,82,RM,410
+1221,Aurélien Tchouaméni,82,CM,410
+1222,Nacho Fernández,82,CB,410
+1223,Timo Werner,82,ST,410
+1224,André Silva,82,ST,410
+1225,Dani Olmo,82,CAM,410
+1226,Willi Orban,82,CB,410
+1227,Steven Berghuis,82,CAM,410
+1228,Antony,82,RW,410
+1229,Lucas Paquetá,82,CAM,410
+1230,Wilfried Zaha,82,LW,410
+1231,Coutinho,82,CAM,410
+1232,Zlatan Ibrahimović,82,ST,410
+1233,Raúl Jiménez,82,ST,410
+1234,Gonçalo Guedes,82,ST,410
+1235,Kevin Volland,82,ST,410
+1236,Dimitri Payet,82,CAM,410
+1237,Anthony Lopes,82,GK,410
+1238,Guerreiro,82,LB,410
+1239,Christian Eriksen,82,CM,410
+1240,Isco,82,CAM,410
+1241,Emre Can,82,CM,410
+1242,Ruslan Malinovskyi,82,CF,410
+1243,Sergi Darder,82,CM,410
+1244,Geoffrey Kondogbia,82,CM,410
+1245,Ismaël Bennacer,82,CDM,410
+1246,Anderson Talisca,82,CF,410
+1247,André Onana,82,GK,410
+1248,Robin Gosens,82,LWB,410
+1249,Jordan Pickford,82,GK,410
+1250,Otávio,82,RM,410
+1251,Yuri Berchiche,82,LB,410
+1252,Grimaldo,82,LB,410
+1253,Gabriel Paulista,82,CB,410
+1254,Matthias Ginter,82,CB,410
+1255,Giovanni Di Lorenzo,82,RB,410
+1256,Noussair Mazraoui,82,RB,410
+1257,Lucas Digne,82,LB,410
+1258,Iñigo Martínez,82,CB,410
+1259,Idrissa Gueye,82,CDM,410
+1260,Gerónimo Rulli,82,GK,410
+1261,Ivan Rakitić,82,CM,410
+1262,Rafa,82,RW,410
+1263,Ferrán Torres,82,LW,410
+1264,Denzel Dumfries,82,RWB,410
+1265,Rui Patrício,82,GK,410
+1266,Leonardo Spinazzola,82,LWB,410
+1267,Luis Muriel,82,ST,410
+1268,Arnaut Danjuma,82,LM,410
+1269,Tammy Abraham,82,ST,410
+1270,James Maddison,82,CAM,410
+1271,Gayà,82,LB,410
+1272,Toby Alderweireld,82,CB,410
+1273,Álex Remiro,82,GK,410
+1274,Łukasz Fabiański,82,GK,410
+1275,Andrej Kramarić,82,CF,410
+1276,Sebastián Coates,82,CB,410
+1277,Francesco Acerbi,82,CB,410
+1278,Sébastien Haller,82,ST,410
+1279,Simon Kjær,82,CB,410
+1280,David Soria,82,GK,410
+1281,Julian Brandt,82,CAM,410
+1282,Andreas Christensen,82,CB,410
+1283,Jonathan Tah,82,CB,410
+1284,Aritz Elustondo,82,CB,410
+1285,Olivier Giroud,82,ST,410
+1286,Raúl Albiol,82,CB,410
+1287,Maffeo Becerra,82,RWB,410
+1288,Silva Duarte,82,LB,410
+1289,Luke O'Nien,82,CDM,410
+1290,Sikou Niakaté,82,CB,410
+1291,Neraysho Kasanwirjo,82,RB,410
+1292,Aleksandar Mitrovic,82,ST,410
+1293,Diogo Dalot,82,RB,410
+1294,Giacomo Raspadori,82,ST,410
+1295,Min Jae Kim,82,CB,410
+1296,Leandro Trossard,82,LW,410
+1297,Lutsharel Geertruida,82,RB,410
+1298,Ramy Bensebaini,82,LB,410
+1299,Enzo Fernández,82,CM,410
+1300,Nicolas Pépé,82,RW,410
+1301,Anthony Modeste,82,ST,410
+1302,Franco Armani,82,GK,410
+1303,Joel Soñora,82,CAM,410
+1304,Aurélio Buta,82,RM,410
+1305,Reinildo,82,LB,410
+1306,Jonathan David,82,ST,410
+1307,Guglielmo Vicario,82,GK,410
+1308,DeJuan Jones,82,LB,410
+1309,Cristian Roldan,82,RM,410
+1310,Scott Twine,82,LW,410
+1311,Jamie Shackleton,82,RB,410
+1312,Dean Henderson,82,GK,410
+1313,Adam Marušic,82,LB,410
+1314,Brahim Díaz,82,CAM,410
+1315,Nikola Vlašic,82,CF,410
+1316,Callum Wilson,82,ST,410
+1317,Bruno da Silva Peres,82,RB,410
+1318,Onuachu,82,ST,410
+1319,Alassane Plea,82,CAM,410
+1320,Giacomo Bonaventura,82,CM,410
+1321,Ezequiel Ávila,82,RM,410
+1322,Alexandr Golovin,82,LM,410
+1323,Marcus Edwards,82,RW,410
+1324,Juan Musso,82,GK,410
+1325,Lisandro Martínez,82,CB,410
+1326,Zambo Anguissa,82,CDM,410
+1327,Nicolás Otamendi,82,CB,410
+1328,Nick Pope,82,GK,410
+1329,Richarlison,82,ST,410
+1330,Manuel Akanji,82,CB,410
+1331,Pepe,82,CB,410
+1332,Joško Gvardiol,82,CB,410
+1333,João Moutinho,82,CM,410
+1334,Dayot Upamecano,82,CB,410
+1335,Nicolás Tagliafico,82,LB,410
+1336,José Sá,82,GK,410
+1337,Hirving Lozano,82,RW,410
+1338,Jamal Musiala,82,CM,410
+1339,Alphonse Areola,82,GK,410
+1340,Jan Vertonghen,82,CB,410
+1341,Denis Zakaria,82,CDM,410
+1342,Rodrygo,82,RW,410
+1343,Jonas Hofmann,82,CAM,410
+1344,Kalvin Phillips,82,CDM,410
+1345,Lucas Torreira,82,CDM,410
+1346,Pablo Sarabia,82,RW,410
+1347,Ricardo Horta,82,CF,410
+1348,Harry Maguire,82,CB,410
+1349,David Raum,82,LWB,410
+1350,Gareth Bale,82,RW,410
+1351,Ibrahima Konaté,82,CB,410
+1352,Thomas Delaney,82,CDM,410
+1353,Cavani,82,ST,410
+1354,Bruno Guimarães,82,CM,410
+1355,Palhinha,82,CDM,410
+1356,Giovani Lo Celso,82,CM,410
+1357,Mario Pašalić,82,CAM,410
+1358,Lucas Ocampos,82,LW,410
+1359,Pedro Porro,82,RWB,410
+1360,Jesús Corona,82,RW,410
+1361,Mario Götze,82,CAM,410
+1362,James Ward-Prowse,82,CM,410
+1363,Taremi,82,ST,410
+1364,Guido Rodríguez,82,CDM,410
+1365,Mohamed Simakan,82,RB,410
+1366,David Raum,81,LWB,405
+1367,Cucurella,81,LB,405
+1368,Naby Keïta,81,CM,405
+1369,Joe Gomez,81,CB,405
+1370,Jamal Musiala,81,CM,405
+1371,Rodrygo,81,RW,405
+1372,Lucas Vázquez,81,RB,405
+1373,Emil Forsberg,81,CAM,405
+1374,Joško Gvardiol,81,CB,405
+1375,José Sá,81,GK,405
+1376,Marcus Rashford,81,LW,405
+1377,Allan Saint-Maximin,81,LM,405
+1378,Jesús Corona,81,RW,405
+1379,João Moutinho,81,CM,405
+1380,Lucas Ocampos,81,LW,405
+1381,Seko Fofana,81,CM,405
+1382,Benjamin Bourigeaud,81,RW,405
+1383,Gaëtan Laborde,81,ST,405
+1384,Martin Terrier,81,LW,405
+1385,Alexandre Lacazette,81,ST,405
+1386,Pablo Sarabia,81,RW,405
+1387,Gareth Bale,81,RW,405
+1388,Carlos Vela,81,RW,405
+1389,Nicolás Tagliafico,81,LB,405
+1390,Corentin Tolisso,81,CM,405
+1391,Ibrahim Sangaré,81,CDM,405
+1392,Jonas Hofmann,81,CAM,405
+1393,Antonín Barák,81,CF,405
+1394,Iñaki Williams,81,ST,405
+1395,Lisandro Martínez,81,CB,405
+1396,Nicolò Zaniolo,81,CF,405
+1397,Mateus Uribe,81,CM,405
+1398,Zambo Anguissa,81,CDM,405
+1399,Denis Zakaria,81,CDM,405
+1400,Dejan Kulusevski,81,RW,405
+1401,Evan Ndicka,81,CB,405
+1402,Richarlison,81,ST,405
+1403,Bartra,81,CB,405
+1404,Jan Vertonghen,81,CB,405
+1405,Manuel Akanji,81,CB,405
+1406,Mario Pašalić,81,CAM,405
+1407,Thomas Delaney,81,CDM,405
+1408,Giovani Lo Celso,81,CM,405
+1409,Pedro Gonçalves,81,RW,405
+1410,Lucas Torreira,81,CDM,405
+1411,Robert Andrich,81,CDM,405
+1412,Yves Bissouma,81,CDM,405
+1413,Kerem Demirbay,81,CM,405
+1414,Henrikh Mkhitaryan,81,CAM,405
+1415,Bruno Guimarães,81,CM,405
+1416,Oscar,81,CAM,405
+1417,Éver Banega,81,CM,405
+1418,Edmond Tapsoba,81,CB,405
+1419,Ricardo Horta,81,CF,405
+1420,Kalvin Phillips,81,CDM,405
+1421,Pedro Porro,81,RWB,405
+1422,Téji Savanier,81,CAM,405
+1423,Matheus Cunha,81,ST,405
+1424,Pepe,81,CB,405
+1425,Stanislav Lobotka,81,CM,405
+1426,Palhinha,81,CDM,405
+1427,Tomáš Souček,81,CDM,405
+1428,Dayot Upamecano,81,CB,405
+1429,Adán,81,GK,405
+1430,Hirving Lozano,81,RW,405
+1431,Alphonse Areola,81,GK,405
+1432,James Ward-Prowse,81,CM,405
+1433,Edin Višća,81,RM,405
+1434,Kieran Tierney,81,LB,405
+1435,Taremi,81,ST,405
+1436,Rafael Tolói,81,CB,405
+1437,Matteo Politano,81,RW,405
+1438,Neto,81,GK,405
+1439,Nick Pope,81,GK,405
+1440,Mario Götze,81,CAM,405
+1441,Nicolás Otamendi,81,CB,405
+1442,Harry Maguire,81,CB,405
+1443,Juan Musso,81,GK,405
+1444,Ibrahima Konaté,81,CB,405
+1445,Borja Iglesias,81,ST,405
+1446,Odisseas Vlachodimos,81,GK,405
+1447,Chris Smalling,81,CB,405
+1448,Gianluca Mancini,81,CB,405
+1449,Vincenzo Grifo,81,LM,405
+1450,Felipe,81,CB,405
+1451,Gabriel,81,CB,405
+1452,Guido Rodríguez,81,CDM,405
+1453,Robin Le Normand,81,CB,405
+1454,Menezes Duarte,81,CB,405
+1455,Rafał Gikiewicz,81,GK,405
+1456,Enzo Le Fée,81,CDM,405
+1457,Remko Pasveer,81,GK,405
+1458,Dávid Hancko,81,LB,405
+1459,Bertrand Traoré,81,RM,405
+1460,Tyler Adams,81,CDM,405
+1461,Niclas Füllkrug,81,ST,405
+1462,Rodríguez,81,CAM,405
+1463,Kevin Danso,81,CB,405
+1464,De Marcos,81,RB,405
+1465,Cesinha,81,CAM,405
+1466,Vitaliy Buyalskyi,81,CAM,405
+1467,Enner Valencia,81,ST,405
+1468,Jesper Lindstrøm,81,RM,405
+1469,Silas,81,RWB,405
+1470,Fabian Schär,81,CB,405
+1471,Luiz Gustavo Dias,81,CDM,405
+1472,Denis Bouanga,81,LM,405
+1473,Florian Lejeune,81,CB,405
+1474,Peter Olayinka,81,LM,405
+1475,Michy Batshuayi,81,ST,405
+1476,Illan Meslier,81,GK,405
+1477,Robert Žulj,81,CAM,405
+1478,Loïs Openda,81,ST,405
+1479,Mauro Icardi,81,ST,405
+1480,David López,81,CB,405
+1481,Anthony Martial,81,ST,405
+1482,Manuel Lanzini,81,CAM,405
+1483,Luke Shaw,81,LB,405
+1484,Pedro,81,ST,405
+1485,Danilo Pereira,81,CDM,405
+1486,Ellyes Skhiri,81,CDM,405
+1487,Luka Jovic,81,ST,405
+1488,Sérgio Oliveira,81,CM,405
+1489,Nordi Mukiele,81,RWB,405
+1490,Páez Gavira,81,CM,405
+1491,Joaquín Correa,81,CF,405
+1492,Thorgan Hazard,81,LM,405
+1493,Ochoa,81,GK,405
+1494,Pervis Estupiñán,81,LB,405
+1495,Reguilón,81,LWB,405
+1496,Jonas Omlin,81,GK,405
+1497,Nikola Milenković,81,CB,405
+1498,José Fonte,81,CB,405
+1499,Alex Sandro,81,LB,405
+1500,Januzaj,81,RW,405
+1501,Dominik Livaković,81,GK,405
+1502,Sardar Azmoun,81,ST,405
+1503,Conor Coady,81,CB,405
+1504,Ridle Baku,81,RM,405
+1505,Danilo,81,RB,405
+1506,Granit Xhaka,81,CDM,405
+1507,Conor Gallagher,81,CM,405
+1508,Kurt Zouma,81,CB,405
+1509,Adrien Rabiot,81,CM,405
+1510,Jordan Veretout,81,CDM,405
+1511,Marten de Roon,81,CDM,405
+1512,Wout Weghorst,81,ST,405
+1513,Hans Vanaken,81,CM,405
+1514,Luuk de Jong,81,ST,405
+1515,Mark Flekken,81,GK,405
+1516,Mattéo Guendouzi,81,CM,405
+1517,Remo Freuler,81,CM,405
+1518,Jonathan David,81,ST,405
+1519,Vitinha,81,CM,405
+1520,Adama Traoré,81,RW,405
+1521,Rodrigo Bentancur,81,CM,405
+1522,Christian Günter,81,LB,405
+1523,de Barros Ribeiro,81,RW,405
+1524,Agustín Marchesín,81,GK,405
+1525,Djibril Sow,81,CM,405
+1526,Pablo Fornals,81,CAM,405
+1527,Alex Telles,81,LB,405
+1528,Axel Witsel,81,CDM,405
+1529,William Carvalho,81,CDM,405
+1530,Tyrell Malacia,81,LB,405
+1531,Youssouf Fofana,81,CDM,405
+1532,Nuno Mendes,81,LB,405
+1533,Matz Sels,81,GK,405
+1534,William Saliba,81,CB,405
+1535,Takehiro Tomiyasu,81,RB,405
+1536,Ryan Gravenberch,81,CM,405
+1537,Daichi Kamada,81,CAM,405
+1538,Morata,81,ST,405
+1539,Youssef En-Nesyri,81,ST,405
+1540,Donyell Malen,81,ST,405
+1541,Matheus Nunes,81,CM,405
+1542,Juan Foyth,81,RB,405
+1543,Nayef Aguerd,81,CB,405
+1544,Diogo Costa,81,GK,405
+1545,Gonzalo Montiel,81,RB,405
+1546,Héctor Herrera,81,CM,405
+1547,Simon Mignolet,81,GK,405
+1548,Matty Cash,81,RB,405
+1549,Daniel Wass,81,CM,405
+1550,Emiliano Buendía,81,RM,405
+1551,Arkadiusz Milik,81,ST,405
+1552,Min Jae Kim,81,CB,405
+1553,Ben White,81,CB,405
+1554,Steve Mandanda,81,GK,405
+1555,Fred,81,CM,405
+1556,Teun Koopmeiners,81,CM,405
+1557,Edson Álvarez,81,CDM,405
+1558,Nemanja Gudelj,81,CDM,405
+1559,Franco Armani,81,GK,405
+1560,Davy Klaassen,81,CAM,405
+1561,Tanguy Ndombele,81,CM,405
+1562,Leandro Paredes,81,CDM,405
+1563,Mauro Arambarri,81,CDM,405
+1564,Justin Bijlow,81,GK,405
+1565,João Mário,81,CM,405
+1566,Nicolás González,81,RW,405
+1567,Talavera,81,GK,405
+1568,Benjamin Pavard,81,RB,405
+1569,Eric Dier,81,CB,405
+1570,Ben Davies,81,CB,405
+1571,Leandro Trossard,81,LM,405
+1572,Jasper Cillessen,81,GK,405
+1573,Munir,81,LW,405
+1574,Dominic Calvert-Lewin,81,ST,405
+1575,Marko Dmitrović,81,GK,405
+1576,Fernando Muslera,81,GK,405
+1577,Lovro Majer,81,CM,405
+1578,Daley Blind,81,CB,405
+1579,Weston McKennie,81,CM,405
+1580,Nélson Semedo,81,RWB,405
+1581,Renato Sanches,81,CM,405
+1582,Josip Brekalo,81,CF,405
+1583,Steven Bergwijn,81,LW,405
+1584,Boulaye Dia,81,ST,405
+1585,Rui Silva,81,GK,405
+1586,Dean Henderson,81,GK,405
+1587,Nemanja Maksimović,81,CM,405
+1588,Jurriën Timber,81,CB,405
+1589,Agustín Rossi,81,GK,405
+1590,Tiago Djaló,81,CB,405
+1591,Kerem Aktürkoglu,81,LM,405
+1592,Ivan Toney,81,ST,405
+1593,Mislav Oršic,81,LM,405
+1594,Weston McKennie,80,CM,400
+1595,Nuno Mendes,80,LB,400
+1596,Jurriën Timber,80,CB,400
+1597,William Saliba,80,CB,400
+1598,Jeremie Frimpong,80,RB,400
+1599,Lukas Klostermann,80,CB,400
+1600,Xaver Schlager,80,CDM,400
+1601,Kevin Kampl,80,CM,400
+1602,Ridle Baku,80,RM,400
+1603,Max Kruse,80,CF,400
+1604,Steven Bergwijn,80,LW,400
+1605,Edson Álvarez,80,CDM,400
+1606,Nélson Semedo,80,RWB,400
+1607,Maximilian Arnold,80,CDM,400
+1608,Daley Blind,80,CB,400
+1609,Mattéo Guendouzi,80,CM,400
+1610,Renato Sanches,80,CM,400
+1611,Danilo Pereira,80,CDM,400
+1612,Adrien Rabiot,80,CM,400
+1613,Danilo,80,RB,400
+1614,Leandro Paredes,80,CDM,400
+1615,Héctor Herrera,80,CM,400
+1616,Carles Gil Pareja,80,CAM,400
+1617,Moussa Dembélé,80,ST,400
+1618,Jonathan Clauss,80,RWB,400
+1619,Walter Benítez,80,GK,400
+1620,Jasper Cillessen,80,GK,400
+1621,Florian Neuhaus,80,CM,400
+1622,Dominik Livaković,80,GK,400
+1623,Cristiano Biraghi,80,LB,400
+1624,Nikola Milenković,80,CB,400
+1625,Nicolás González,80,RW,400
+1626,Ante Rebić,80,LW,400
+1627,Djibril Sow,80,CM,400
+1628,Saúl,80,CM,400
+1629,Mario Hermoso,80,CB,400
+1630,Marcel Sabitzer,80,CM,400
+1631,Georginio Wijnaldum,80,CM,400
+1632,Teun Koopmeiners,80,CM,400
+1633,Francis Coquelin,80,CM,400
+1634,Jonathan Viera,80,CAM,400
+1635,Fred,80,CM,400
+1636,Scott McTominay,80,CDM,400
+1637,Luis Sinisterra,80,LW,400
+1638,Lucas Moura,80,RW,400
+1639,Allan Marques Loureiro,80,CDM,400
+1640,Emiliano Buendía,80,RM,400
+1641,Marek Hamšík,80,CM,400
+1642,Marten de Roon,80,CDM,400
+1643,Álex Berenguer,80,RM,400
+1644,Arthur,80,CM,400
+1645,Eric Dier,80,CB,400
+1646,Andy Delort,80,ST,400
+1647,Remo Freuler,80,CM,400
+1648,Alex Telles,80,LB,400
+1649,Joaquín Correa,80,CF,400
+1650,Renan Lodi,80,LB,400
+1651,Morales,80,LM,400
+1652,Mahmoud Dahoud,80,CM,400
+1653,Victor Lindelöf,80,CB,400
+1654,Rick Karsdorp,80,RWB,400
+1655,Etienne Capoue,80,CM,400
+1656,Deulofeu,80,CF,400
+1657,Stefan Ortega,80,GK,400
+1658,Nayef Aguerd,80,CB,400
+1659,Joan Jordán,80,CM,400
+1660,Bryan Cristante,80,CDM,400
+1661,Thorgan Hazard,80,LM,400
+1662,Antonio Candreva,80,RM,400
+1663,Lovro Majer,80,CM,400
+1664,Raúl García,80,ST,400
+1665,Álex Moreno,80,LB,400
+1666,Bernd Leno,80,GK,400
+1667,Anthony Martial,80,ST,400
+1668,Hans Hateboer,80,RWB,400
+1669,Dominic Calvert-Lewin,80,ST,400
+1670,Simon Mignolet,80,GK,400
+1671,Alex Sandro,80,LB,400
+1672,Harvey Barnes,80,LM,400
+1673,Uğurcan Çakır,80,GK,400
+1674,Morata,80,ST,400
+1675,Sardar Azmoun,80,ST,400
+1676,Boubacar Kamara,80,CDM,400
+1677,Luke Shaw,80,LB,400
+1678,Mauro Arambarri,80,CDM,400
+1679,Yeray,80,CB,400
+1680,Hamari Traoré,80,RB,400
+1681,Sergi Roberto,80,RB,400
+1682,Viktor Tsygankov,80,RM,400
+1683,Alexander Isak,80,ST,400
+1684,Leon Bailey,80,RM,400
+1685,Reguilón,80,LWB,400
+1686,Jarrod Bowen,80,RM,400
+1687,Alban Lafont,80,GK,400
+1688,Ledesma,80,GK,400
+1689,Christian Günter,80,LB,400
+1690,Kurt Zouma,80,CB,400
+1691,Charles Aránguiz,80,CDM,400
+1692,Martin Dúbravka,80,GK,400
+1693,Edgar Badia,80,GK,400
+1694,Vladimír Coufal,80,RB,400
+1695,Javi Galán,80,LB,400
+1696,Amir Rrahmani,80,CB,400
+1697,Kepa Arrizabalaga,80,GK,400
+1698,Alessio Cragno,80,GK,400
+1699,Andrea Consigli,80,GK,400
+1700,Davide Calabria,80,RB,400
+1701,Gianluca Scamacca,80,ST,400
+1702,Youssef En-Nesyri,80,ST,400
+1703,Marko Dmitrović,80,GK,400
+1704,Alessio Romagnoli,80,CB,400
+1705,Hans Vanaken,80,CM,400
+1706,David Ospina,80,GK,400
+1707,Mark Flekken,80,GK,400
+1708,Daichi Kamada,80,CAM,400
+1709,Rui Silva,80,GK,400
+1710,Matteo Darmian,80,RWB,400
+1711,William Carvalho,80,CDM,400
+1712,Aaron Wan-Bissaka,80,RB,400
+1713,Sven Botman,80,CB,400
+1714,Joselu,80,ST,400
+1715,Smith Rowe,80,LM,400
+1716,José Fonte,80,CB,400
+1717,Aitor Cantalapiedra,80,LW,400
+1718,Themba Zwane,80,CAM,400
+1719,Germán Pezzella,80,CB,400
+1720,Ritsu Doan,80,RM,400
+1721,Meza,80,RW,400
+1722,Predrag Rajković,80,GK,400
+1723,Gabriel Martinelli,80,LM,400
+1724,Brais Méndez,80,RM,400
+1725,Alexis Saelemaekers,80,RW,400
+1726,Diego Godín,80,CB,400
+1727,Robert Sanchéz,80,GK,400
+1728,Nikola Vlašić,80,LM,400
+1729,Breel Embolo,80,ST,400
+1730,Sergio Rochet,80,GK,400
+1731,Rodríguez,80,ST,400
+1732,Junya Ito,80,RW,400
+1733,Mathías Olivera,80,LB,400
+1734,Andrija Živković,80,RW,400
+1735,Nicolás De la Cruz,80,CM,400
+1736,Salvio,80,RW,400
+1737,Clément Lenglet,80,CB,400
+1738,Brahim Díaz,80,CAM,400
+1739,Lucas Alario,80,ST,400
+1740,Mislav Oršić,80,LW,400
+1741,Lukas Nmecha,80,ST,400
+1742,Alves da Silva,80,RB,400
+1743,Jesse Lingard,80,CAM,400
+1744,Grzegorz Krychowiak,80,CDM,400
+1745,Ismaïla Sarr,80,RM,400
+1746,Saša Lukić,80,CM,400
+1747,Mathew Ryan,80,GK,400
+1748,Wataru Endo,80,CM,400
+1749,De Ketelaere,80,ST,400
+1750,Manuel Ugarte,80,CM,400
+1751,Daniel James,80,RM,400
+1752,Marko Livaja,80,CF,400
+1753,Dennis Praet,80,CAM,400
+1754,Habib Diallo,80,ST,400
+1755,Sofiane Boufal,80,CF,400
+1756,Noa Lang,80,LW,400
+1757,Aleksandar Mitrović,80,ST,400
+1758,Joseph Aidoo,80,CB,400
+1759,Kevin Mbabu,80,RB,400
+1760,Borna Sosa,80,LB,400
+1761,Fabian Schär,80,CB,400
+1762,Brooks,80,CB,400
+1763,Toko Ekambi,80,LM,400
+1764,Sergiño Dest,80,RB,400
+1765,Bryan Gil Salvatierra,80,LM,400
+1766,Thomas Meunier,80,RB,400
+1767,Romain Saïss,80,CB,400
+1768,Tyrone Mings,80,CB,400
+1769,Ruiz,80,CAM,400
+1770,Ollie Watkins,80,ST,400
+1771,Lucas Boyé,80,ST,400
+1772,Nathan Aké,80,CB,400
+1773,Rodrigo,80,CAM,400
+1774,Timothy Castagne,80,RB,400
+1775,Alfred Gomis,80,GK,400
+1776,Diogo Dalot,80,RB,400
+1777,Kouyaté,80,CDM,400
+1778,Andrés Guardado,80,CDM,400
+1779,Exequiel Palacios,80,CDM,400
+1780,Salem Al Dawsari,80,LW,400
+1781,Duje Caleta-Car,80,CB,400
+1782,Acevedo,80,GK,400
+1783,Abdou Diallo,80,CB,400
+1784,Matt Turner,80,GK,400
+1785,Giovanni Reyna,80,CAM,400
+1786,Wout Faes,80,CB,400
+1787,Julián Álvarez,80,ST,400
+1788,Silvan Widmer,80,RWB,400
+1789,Nahuel Molina,80,RWB,400
+1790,Piero Hincapié,80,LB,400
+1791,Denayer,80,CB,400
+1792,Lovren,80,CB,400
+1793,Campbell,80,ST,400
+1794,Patrick Bamford,80,ST,400
+1795,Giovanni Simeone,80,ST,400
+1796,Gonzalo Plata,80,RM,400
+1797,Alexander Bah,80,RB,400
+1798,Kasper Dolberg,80,ST,400
+1799,Maximiliano Gómez,80,ST,400
+1800,Hee Chan Hwang,80,LW,400
+1801,Zack Steffen,80,GK,400
+1802,Borjan,80,GK,400
+1803,Mena,80,CAM,400
+1804,Matias Vecino,80,CM,400
+1805,Domingos Duarte,80,CB,400
+1806,Rasmus Kristensen,80,RB,400
+1807,Darko Lazović,80,LM,400
+1808,Joachim Andersen,80,CB,400
+1809,Vega,80,LW,400
+1810,Damián Suárez,80,RB,400
+1811,Yussuf Poulsen,80,ST,400
+1812,Michy Batshuayi,80,ST,400
+1813,Alexander Djiku,80,CB,400
+1814,Montes,80,CB,400
+1815,Nico Elvedi,80,CB,400
+1816,Moussa Sissoko,80,CDM,400
