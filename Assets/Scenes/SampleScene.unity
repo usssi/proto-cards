@@ -579,6 +579,7 @@ GameObject:
   - component: {fileID: 405365390}
   - component: {fileID: 405365392}
   - component: {fileID: 405365391}
+  - component: {fileID: 405365393}
   m_Layer: 5
   m_Name: Portero
   m_TagString: Untagged
@@ -643,6 +644,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 405365389}
   m_CullTransparentMesh: 1
+--- !u!114 &405365393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 405365389}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3d9ac6e710f804a9fd523925ed752c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desiredPosicion: 0
 --- !u!1 &414869649
 GameObject:
   m_ObjectHideFlags: 0
@@ -1143,7 +1157,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 569548774}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -1319,6 +1333,7 @@ GameObject:
   - component: {fileID: 710726205}
   - component: {fileID: 710726207}
   - component: {fileID: 710726206}
+  - component: {fileID: 710726208}
   m_Layer: 5
   m_Name: Delantero (1)
   m_TagString: Untagged
@@ -1383,6 +1398,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 710726204}
   m_CullTransparentMesh: 1
+--- !u!114 &710726208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 710726204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3d9ac6e710f804a9fd523925ed752c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desiredPosicion: 3
 --- !u!1 &791254648
 GameObject:
   m_ObjectHideFlags: 0
@@ -1394,6 +1422,7 @@ GameObject:
   - component: {fileID: 791254649}
   - component: {fileID: 791254651}
   - component: {fileID: 791254650}
+  - component: {fileID: 791254652}
   m_Layer: 5
   m_Name: Medio (2)
   m_TagString: Untagged
@@ -1458,6 +1487,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 791254648}
   m_CullTransparentMesh: 1
+--- !u!114 &791254652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 791254648}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3d9ac6e710f804a9fd523925ed752c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desiredPosicion: 2
 --- !u!1 &794519494
 GameObject:
   m_ObjectHideFlags: 0
@@ -2402,6 +2444,7 @@ GameObject:
   - component: {fileID: 848216082}
   - component: {fileID: 848216084}
   - component: {fileID: 848216083}
+  - component: {fileID: 848216085}
   m_Layer: 5
   m_Name: Defensa (2)
   m_TagString: Untagged
@@ -2466,6 +2509,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 848216081}
   m_CullTransparentMesh: 1
+--- !u!114 &848216085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 848216081}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3d9ac6e710f804a9fd523925ed752c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desiredPosicion: 1
 --- !u!1 &854902552
 GameObject:
   m_ObjectHideFlags: 0
@@ -2611,6 +2667,7 @@ GameObject:
   - component: {fileID: 867701325}
   - component: {fileID: 867701327}
   - component: {fileID: 867701326}
+  - component: {fileID: 867701328}
   m_Layer: 5
   m_Name: Medio (1)
   m_TagString: Untagged
@@ -2675,6 +2732,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 867701324}
   m_CullTransparentMesh: 1
+--- !u!114 &867701328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 867701324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3d9ac6e710f804a9fd523925ed752c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desiredPosicion: 2
 --- !u!1 &976390721
 GameObject:
   m_ObjectHideFlags: 0
@@ -2686,6 +2756,7 @@ GameObject:
   - component: {fileID: 976390722}
   - component: {fileID: 976390724}
   - component: {fileID: 976390723}
+  - component: {fileID: 976390725}
   m_Layer: 5
   m_Name: Delantero
   m_TagString: Untagged
@@ -2750,6 +2821,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 976390721}
   m_CullTransparentMesh: 1
+--- !u!114 &976390725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 976390721}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3d9ac6e710f804a9fd523925ed752c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desiredPosicion: 3
 --- !u!1 &977321175
 GameObject:
   m_ObjectHideFlags: 0
@@ -2895,6 +2979,7 @@ GameObject:
   - component: {fileID: 1096261247}
   - component: {fileID: 1096261249}
   - component: {fileID: 1096261248}
+  - component: {fileID: 1096261250}
   m_Layer: 5
   m_Name: Defensa (1)
   m_TagString: Untagged
@@ -2959,6 +3044,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1096261246}
   m_CullTransparentMesh: 1
+--- !u!114 &1096261250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1096261246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3d9ac6e710f804a9fd523925ed752c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desiredPosicion: 1
 --- !u!1 &1105872863
 GameObject:
   m_ObjectHideFlags: 0
@@ -3104,6 +3202,7 @@ GameObject:
   - component: {fileID: 1135338718}
   - component: {fileID: 1135338720}
   - component: {fileID: 1135338719}
+  - component: {fileID: 1135338721}
   m_Layer: 5
   m_Name: Delantero (2)
   m_TagString: Untagged
@@ -3168,6 +3267,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1135338717}
   m_CullTransparentMesh: 1
+--- !u!114 &1135338721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1135338717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3d9ac6e710f804a9fd523925ed752c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desiredPosicion: 3
 --- !u!1001 &1164155750
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3547,6 +3659,7 @@ GameObject:
   - component: {fileID: 1366754834}
   - component: {fileID: 1366754836}
   - component: {fileID: 1366754835}
+  - component: {fileID: 1366754837}
   m_Layer: 5
   m_Name: Defensa (3)
   m_TagString: Untagged
@@ -3611,6 +3724,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1366754833}
   m_CullTransparentMesh: 1
+--- !u!114 &1366754837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1366754833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3d9ac6e710f804a9fd523925ed752c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desiredPosicion: 1
 --- !u!1 &1387341393
 GameObject:
   m_ObjectHideFlags: 0
@@ -3907,8 +4033,8 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 569548775}
   - {fileID: 1296317421}
+  - {fileID: 569548775}
   - {fileID: 2139543374}
   - {fileID: 494025559}
   m_Father: {fileID: 0}
@@ -4508,6 +4634,7 @@ GameObject:
   - component: {fileID: 1904715043}
   - component: {fileID: 1904715045}
   - component: {fileID: 1904715044}
+  - component: {fileID: 1904715046}
   m_Layer: 5
   m_Name: Defensa
   m_TagString: Untagged
@@ -4572,6 +4699,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1904715042}
   m_CullTransparentMesh: 1
+--- !u!114 &1904715046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1904715042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3d9ac6e710f804a9fd523925ed752c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desiredPosicion: 1
 --- !u!1 &2041471008
 GameObject:
   m_ObjectHideFlags: 0
@@ -5105,7 +5245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3d4e0c3160334458a2cf90be6f2c60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moneyController: {fileID: 0}
+  moneyController: {fileID: 494025562}
 --- !u!1 &2109023848
 GameObject:
   m_ObjectHideFlags: 0
@@ -5251,6 +5391,7 @@ GameObject:
   - component: {fileID: 2134502198}
   - component: {fileID: 2134502200}
   - component: {fileID: 2134502199}
+  - component: {fileID: 2134502201}
   m_Layer: 5
   m_Name: Medio
   m_TagString: Untagged
@@ -5315,6 +5456,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2134502197}
   m_CullTransparentMesh: 1
+--- !u!114 &2134502201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134502197}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3d9ac6e710f804a9fd523925ed752c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desiredPosicion: 2
 --- !u!1 &2139543373
 GameObject:
   m_ObjectHideFlags: 0
