@@ -6,12 +6,13 @@ public class UIDragHandler : MonoBehaviour, IDragHandler, IBeginDragHandler, IEn
     private RectTransform dragRectTransform;
     private Canvas canvas;
     [HideInInspector] public bool isDragging = false;
-
+    private Transform originalParent;
 
     private void Start()
     {
         dragRectTransform = GetComponent<RectTransform>();
         canvas = GetComponentInParent<Canvas>();
+        originalParent = FindObjectOfType<CardsParent>().transform;
     }
 
     public void OnBeginDrag(PointerEventData eventData)
@@ -22,7 +23,9 @@ public class UIDragHandler : MonoBehaviour, IDragHandler, IBeginDragHandler, IEn
         }
         isDragging = true;
 
-        dragRectTransform.SetAsLastSibling();
+        ResetCardPosition(transform);
+        //dragRectTransform.SetAsLastSibling();
+
     }
 
     public void OnDrag(PointerEventData eventData)
@@ -32,15 +35,19 @@ public class UIDragHandler : MonoBehaviour, IDragHandler, IBeginDragHandler, IEn
             return;
         }
 
-        // Get the position of the mouse cursor in canvas space
         RectTransformUtility.ScreenPointToLocalPointInRectangle(canvas.transform as RectTransform, eventData.position, canvas.worldCamera, out Vector2 localPos);
 
-        // Set the anchored position of the RectTransform to the mouse position
         dragRectTransform.anchoredPosition = localPos;
     }
 
     public void OnEndDrag(PointerEventData eventData)
     {
         isDragging = false;
+    }
+
+    public void ResetCardPosition(Transform card)
+    {
+        card.SetParent(originalParent);
+        //card.position = originalPosition;
     }
 }
